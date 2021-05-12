@@ -1,2 +1,2 @@
-# Computer-Architecture-and-Organization
-Computer architecture and organization lectures for computer science students.
+# Java-Programming-Language
+Java programming language lectures for computer science students.
